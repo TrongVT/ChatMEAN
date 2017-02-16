@@ -1,3 +1,3 @@
-# ChatMEAN
-Học code hood
-Trọng Nguyễn
+# Crud Nodejs
+Quản lý nhân sự
+-Trọng Vô Tình-
